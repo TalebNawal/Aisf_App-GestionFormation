@@ -47,6 +47,8 @@ Cette application de gestion des sessions de formation des employés a été con
 
 **Conception Graphique** : Scene Builder
 
+**Base de données** : MySQL
+
 ## Fonctionnalités Clés
 
 **Gestion des Sessions de Formation** : Permet aux administrateurs de créer, planifier et organiser des sessions de formation en spécifiant les dates, les lieux, les instructeurs et les sujets.

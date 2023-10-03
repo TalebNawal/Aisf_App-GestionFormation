@@ -3,34 +3,33 @@
 Cette application de gestion des sessions de formation des employés a été conçue et développée pour simplifier le processus de planification, de suivi et de communication autour des sessions de formation au sein d'une organisation. Elle intègre également un système de messagerie automatisée pour faciliter la communication avec les participants.
 
 <p >
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/92be6560-54b4-4eff-8661-326c001e0233">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/6b4b84c2-b141-47b2-89d9-93276055cdf8">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/3114891f-6aa6-45ac-95a2-b0a21dc1b98c">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/62db3443-b6d5-4346-b537-bd1eeb1a2d0a">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/13a04309-b0a1-4a80-8536-4b9dde2246b4">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/4c6265e6-a57d-4c37-9596-e48684f8c338">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/3daf45c0-5771-4bda-971f-d98fb5ba81b1">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/a2c81832-a4bf-485d-9ec1-24382cd6e83b">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/1455d1f5-8f60-4c46-b510-298e379f694e">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/4076048a-8128-451d-8a94-c66bf749f277">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/96d9007b-6da8-4d7d-8a14-91710142a928">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/7ef5318b-f20f-452e-af65-fc14daa53826">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/63318e7d-9f01-4dd3-a415-0d2272b285fd">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/3c4a36b8-6010-4320-9934-aa2f9f503a05">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/3b963086-ff45-4195-8db0-c933a42a16de">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/c7c422f6-9d2a-44cd-b7cf-d6ae49bb75d1">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/7e3de2dd-102f-4c58-88d1-e61d67c81940">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/2e801ba3-efba-4f47-a9df-2943194042a5">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/0f320930-835e-4c85-a23d-377ca505e290">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/633341a4-5272-425c-b12f-70c8f9112e0e">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/29bd37df-09ba-44b1-94d5-d5ad1cf3fff8">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/99c78a21-06f8-4204-ac79-1854604e6791">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/53a98d58-4668-46d6-bebd-f76887b71261">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/817d52f3-8a99-4de6-99b2-de0ea66af60d">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/d0850857-d97b-4530-9295-ddd319282167">
+<img width="300" src="https://github.com/TalebNawal/Aisf_App-GestionFormation/assets/101468806/2599fddb-2135-4dd0-bfe2-5b11718de292">
 
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/f0b8feb4-6550-4f79-9ffa-672182e78eec" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/975eb3ac-4529-4aa2-8500-9c92146638ad" >
-
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/c59c8f7a-4007-48d0-93db-297f6be96577" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/bd61cb69-e3b8-4907-8f2c-65d601e1ce0f" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/c2f55163-44b6-43a9-a7e8-ecbb444000e1" >
-
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/2bfd894b-a8b7-4c08-bc6e-b337a1358370" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/b050c028-a21d-43d4-80f8-62ed99e7df2b" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/05f09279-e49d-4919-9284-c359afbc2050" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/66961b10-3d43-4bd2-b1f3-27cc47126799" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/8d81e138-f67d-4715-933f-74ae6beb1ecd" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/7f476be2-85a5-4e35-bb9c-39a7a549979a" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/76280f0a-c753-441b-b806-0daa09eef213" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/2458df0e-b50c-44fa-bb83-3e954f470cbf" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/0974f46a-4954-49a2-89d9-f8dc45159548" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/61b8b32b-7abe-4082-95ad-a2ca263da226" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/b87a564b-3298-4336-ab71-1942fd3d4672" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/3cc966f8-5752-43fe-9edc-3ef90853cfef" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/6b98af9c-7747-4470-a0f7-7772892d7227" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/c54fd150-de42-45f1-b017-a83dfd9f934c" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/380b7399-3612-406d-8cf8-3c6fec167cdb" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/63cc7028-c988-4df3-a497-09968c10da55" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/08786962-50ab-4f2d-9bd2-ad7445687752" >
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/9e02d973-07e3-4dc0-997e-c50c22bb1f72" >
-
-<img width="300" src="https://github.com/TalebNawal/Gestionnaire_de_Sessions_de_Formation_avec_Messagerie_Automatisee/assets/101468806/146ce7c0-582c-469e-a760-e71476e0a60f" >
 </p>
 
 ## Outils Utilisés

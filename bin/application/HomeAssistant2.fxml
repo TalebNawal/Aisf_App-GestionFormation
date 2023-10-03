@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="520.0" prefWidth="800.0" styleClass="background" stylesheets="@application.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.HomeAssistant2Controller">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="1508.0" minWidth="10.0" percentWidth="111.0" prefWidth="616.0" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="1509.0" minWidth="10.0" percentWidth="120.0" prefWidth="1304.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="1509.0" minWidth="10.0" percentWidth="181.0" prefWidth="1304.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <GridPane styleClass="Menu" stylesheets="@application.css">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="19.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="262.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="19.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="354.0" minHeight="0.0" prefHeight="32.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="710.0" minHeight="6.0" percentHeight="20.0" prefHeight="195.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="916.0" minHeight="10.0" prefHeight="32.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="820.0" minHeight="10.0" prefHeight="820.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <GridPane GridPane.columnIndex="1" GridPane.rowIndex="3">
+              <columnConstraints>
+                <ColumnConstraints />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <GridPane prefHeight="73.0" prefWidth="186.0" GridPane.columnIndex="1" GridPane.rowIndex="9">
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                  </GridPane>
+                  <GridPane GridPane.columnIndex="1">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <Label fx:id="name" alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="430.0" text="OUAZIZI AYOUB" textAlignment="CENTER">
+                           <font>
+                              <Font name="System Bold" size="20.0" />
+                           </font>
+                           <GridPane.margin>
+                              <Insets top="10.0" />
+                           </GridPane.margin>
+                        </Label>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="449.0" text="Assistant" textAlignment="CENTER" GridPane.rowIndex="1">
+                           <font>
+                              <Font size="20.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </GridPane>
+                  <Button mnemonicParsing="false" onAction="#SeDeconnecter" prefHeight="43.0" prefWidth="423.0" text="Se déconnecter" GridPane.columnIndex="1" GridPane.rowIndex="5">
+                     <font>
+                        <Font name="System Bold" size="20.0" />
+                     </font>
+                  </Button>
+                  <Label fx:id="time" prefHeight="40.0" prefWidth="332.0" textFill="#2b1b59" GridPane.columnIndex="1" GridPane.rowIndex="8">
+                     <font>
+                        <Font name="System Bold" size="20.0" />
+                     </font>
+                  </Label>
+                  <ToggleButton fx:id="accueil_button" mnemonicParsing="false" onAction="#accueil" prefHeight="43.0" prefWidth="659.0" text="Accueil" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                     <font>
+                        <Font name="System Bold" size="20.0" />
+                     </font>
+                  </ToggleButton>
+                  <ToggleButton fx:id="retour_button" mnemonicParsing="false" onAction="#retour" prefHeight="43.0" prefWidth="445.0" text="Retour" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                     <font>
+                        <Font name="System Bold" size="20.0" />
+                     </font>
+                  </ToggleButton>
+               </children>
+            </GridPane>
+            <Circle fx:id="circle" fill="DODGERBLUE" radius="42.0" stroke="BLACK" strokeType="INSIDE" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER">
+               <GridPane.margin>
+                  <Insets bottom="5.0" top="30.0" />
+               </GridPane.margin>
+            </Circle>
+         </children>
+      </GridPane>
+      <GridPane prefHeight="529.0" prefWidth="249.0" GridPane.columnIndex="2">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="164.66665649414062" minHeight="0.0" prefHeight="0.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="476.0000508626302" minHeight="10.0" prefHeight="464.6666666666667" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="107.33331298828125" minHeight="1.333282470703125" prefHeight="55.33331298828125" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <TableView fx:id="Data" prefHeight="522.0" prefWidth="386.0" styleClass="table" stylesheets="@application.css" GridPane.rowIndex="1">
+               <columnResizePolicy>
+                  <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+               </columnResizePolicy>
+               <columns>
+                  <TableColumn fx:id="cin" prefWidth="75.0" text="CIN" />
+                  <TableColumn fx:id="nom" prefWidth="75.0" text="Nom" />
+                  <TableColumn fx:id="prenom" prefWidth="75.0" text="Prénom" />
+               </columns>
+            </TableView>
+         </children>
+      </GridPane>
+      <GridPane GridPane.columnIndex="1">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="207.33331298828125" minWidth="10.0" prefWidth="205.33331298828125" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="81.33334350585938" minWidth="10.0" prefWidth="51.33335367838538" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="155.33333587646484" minHeight="10.0" prefHeight="90.66665395100912" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="155.33333587646484" minHeight="0.0" prefHeight="90.66665395100912" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="310.66666666666663" minHeight="10.0" prefHeight="115.00000000000003" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="263.99998474121094" minHeight="2.999969482421875" prefHeight="54.666656494140625" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="263.99998474121094" minHeight="10.0" prefHeight="64.66667683919269" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="263.99998474121094" minHeight="10.0" prefHeight="64.66667683919269" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="181.33330281575525" minHeight="10.0" prefHeight="113.66666666666663" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="search" prefHeight="42.0" prefWidth="172.0" promptText="Chercher" GridPane.rowIndex="2" />
+            <Button mnemonicParsing="false" onAction="#ok" prefHeight="43.0" prefWidth="52.0" text="OK" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Button>
+            <Label fx:id="addMsg" prefHeight="321.0" prefWidth="205.0" textFill="#eb3636" GridPane.rowIndex="6">
+               <font>
+                  <Font name="System Bold" size="17.0" />
+               </font>
+            </Label>
+            <ComboBox fx:id="choix" prefHeight="39.0" prefWidth="230.0" promptText="                  Chercher par" GridPane.rowIndex="1" />
+            <Button mnemonicParsing="false" onAction="#save" prefHeight="45.0" prefWidth="747.0" text="Marquer Présent" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#absent" prefHeight="45.0" prefWidth="747.0" text="Marquer Absent" GridPane.rowIndex="5">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Button>
+         </children>
+      </GridPane>
+   </children>
+</GridPane>
